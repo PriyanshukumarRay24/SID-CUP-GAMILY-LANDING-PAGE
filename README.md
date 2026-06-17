@@ -2,8 +2,7 @@
 
 A modern and interactive landing page inspired by the SID CUP Family Golf website. This project focuses on creating an engaging user interface using HTML, CSS, and JavaScript with smooth animations and responsive design.
 
-## 🚀 Live Demo
-Add your live website link here:
+
 
 ## 📌 Features
 
@@ -54,4 +53,3 @@ Through this project, I learned:
 
 ---
 
-Made with ❤️ by Priyanshu Kumar Ray
